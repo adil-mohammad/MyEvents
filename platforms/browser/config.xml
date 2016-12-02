@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.nyas.myevents" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>MyEvents</name>
+    <description>
+        App for my events
+    </description>
+    <author email="adilbasha29@gmail.com">
+        Adil Basha
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+</widget>
